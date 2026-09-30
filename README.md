@@ -1,16 +1,32 @@
-## Hi there 👋
+# Tiffany Hill
 
-<!--
-**TiffanyHill-InfraTech/TiffanyHill-InfraTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product + AI + Infrastructure**
 
-Here are some ideas to get you started:
+I build products and technical systems across AI, data, and infrastructure, with a focus on 0→1 development and real-world applications of emerging technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+### INFRA
+
+AI infrastructure intelligence for agents, operators, and infrastructure developers.
+
+I'm exploring how AI agents can work with the data, regulatory information, and infrastructure intelligence required to understand the physical systems behind AI.
+
+## Technical Interests
+
+**Python · APIs · Data Pipelines · LLMs · RAG · AI Agents · MCP · AI Evaluation · Infrastructure Data**
+
+## Selected Projects
+
+| Project | Purpose |
+|---|---|
+| **INFRA MCP** | AI infrastructure intelligence |
+| **Infrastructure Data Pipeline** | Public infrastructure and data-center data |
+| **INFRA RAG** | Retrieval over infrastructure and regulatory information |
+| **AI Evaluation Lab** | Testing and evaluating AI systems |
+
+## Research
+
+My research focuses on AI governance, digital infrastructure, telecommunications, regulatory intelligence, and the material infrastructure underlying emerging technology.
+
+**Master's Resident, Northwestern Pritzker School of Law**
