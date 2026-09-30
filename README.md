@@ -6,7 +6,7 @@ I build products and technical systems across AI, data, and infrastructure, with
 
 ## Current Work
 
-### INFRA
+### INFRATECH
 
 AI infrastructure intelligence for agents, operators, and infrastructure developers.
 
